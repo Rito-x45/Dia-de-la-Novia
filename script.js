@@ -3,7 +3,7 @@ const ctx = canvas.getContext('2d');
 const gif1 = document.getElementById('gif1');
 const gif2 = document.getElementById('gif2');
 
-const fullText = ["Feliz Día", "de la Novia"]; 
+const fullText = ["Feliz Día", "de la Novia", "Te amo Diana"]; 
 let fontSize = 80; 
 let lineHeight = 100;
 let heartScale = 15;
